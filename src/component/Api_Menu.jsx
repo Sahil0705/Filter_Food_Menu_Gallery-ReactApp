@@ -29,7 +29,7 @@ const Menu = [
    },
     {
        id: 4,
-       image: "../images/idli.jpg",
+       image: "images/idli.jpg",
        name:"Idli",
        type:"veg",
        category: "breakfast",
@@ -38,7 +38,7 @@ const Menu = [
    },
      {
        id: 5,
-       image: "../images/omlete.jpg",
+       image: "images/omlete.jpg",
        name:"Omlete",
        type:"non_veg",
        category: "breakfast",
@@ -47,7 +47,7 @@ const Menu = [
    },
       {
        id: 6,
-       image: "../images/pbm.jpg",
+       image: "images/pbm.jpg",
        name:"Paneer Butter Masala",
        type:"veg",
        category: "lunch",
@@ -56,7 +56,7 @@ const Menu = [
    },
        {
        id: 7,
-       image: "../images/bkulcha.jpg",
+       image: "images/bkulcha.jpg",
        name:"Butter Kulcha",
        type:"veg",
        category: "lunch",
@@ -65,7 +65,7 @@ const Menu = [
    },
        {
        id: 8,
-       image: "../images/VPulao.jpg",
+       image: "images/VPulao.jpg",
        name:"veg Pulao",
        type:"veg",
        category: "lunch",
@@ -74,7 +74,7 @@ const Menu = [
    },
        {
        id: 9,
-       image: "../images/kkatri.jpg",
+       image: "images/kkatri.jpg",
        name:"Kaju Katri",
        type:"veg",
        category: "lunch",
@@ -83,7 +83,7 @@ const Menu = [
    },
    {
     id: 10,
-    image: "../images/kofta.jpg",
+    image: "images/kofta.jpg",
     name:"veg Kofta",
     type:"veg",
     category: "dinner",
@@ -92,7 +92,7 @@ const Menu = [
 },
 {
     id:11,
-    image: "../images/aloo.jpg",
+    image: "images/aloo.jpg",
     name:"Dum Aloo Kashmiri",
     type:"veg",
     category: "dinner",
@@ -101,7 +101,7 @@ const Menu = [
 },
 {
     id: 12,
-    image: "../images/VBir.jpg",
+    image: "images/VBir.jpg",
     name:"veg Biryani",
     type:"veg",
     category: "dinner",
@@ -110,7 +110,7 @@ const Menu = [
 },
 {
     id: 13,
-    image: "../images/gulabj.jpg",
+    image: "images/gulabj.jpg",
     name:"Gulab Jamun",
     type:"veg",
     category: "dinner",
@@ -119,7 +119,7 @@ const Menu = [
 },
 {
     id: 14,
-    image: "../images/cbm.jpg",
+    image: "images/cbm.jpg",
     name:"Chicken Butter Masala",
     type:"non_veg",
     category: "lunch",
@@ -128,7 +128,7 @@ const Menu = [
 },
 {
     id: 15,
-    image: "../images/ct.jpg",
+    image: "images/ct.jpg",
     name:"Chicken Tandoori",
     type:"non_veg",
     category: "lunch",
@@ -137,7 +137,7 @@ const Menu = [
 },
 {
     id: 16,
-    image: "../images/eggpara.jpg",
+    image: "images/eggpara.jpg",
     name:"Egg Paratha",
     type:"non_veg",
     category: "lunch",
@@ -146,7 +146,7 @@ const Menu = [
 },
 {
     id: 17,
-    image: "../images/chBir.jpg",
+    image: "images/chBir.jpg",
     name:"Chicken Biryani",
     type:"non_veg",
     category: "lunch",
@@ -155,7 +155,7 @@ const Menu = [
 },
 {
     id: 18,
-    image: "../images/ftikka.jpg",
+    image: "images/ftikka.jpg",
     name:"Fish Tikka",
     type:"non_veg",
     category: "dinner",
@@ -164,7 +164,7 @@ const Menu = [
 },
 {
     id: 19,
-    image: "../images/mk.jpg",
+    image: "images/mk.jpg",
     name:"Mutton Kabab",
     type:"non_veg",
     category: "dinner",
@@ -173,7 +173,7 @@ const Menu = [
 },
 {
     id: 20,
-    image: "../images/eggcur.jpg",
+    image: "images/eggcur.jpg",
     name:"Egg Curry",
     type:"non_veg",
     category: "dinner",
@@ -182,7 +182,7 @@ const Menu = [
 },
 {
     id: 21,
-    image: "../images/chikPulao.jpg",
+    image: "images/chikPulao.jpg",
     name:"Chicken Pulao",
     type:"non_veg",
     category: "dinner",
@@ -191,7 +191,7 @@ const Menu = [
 },
 {
     id: 22,
-    image: "../images/momo.jpg",
+    image: "images/momo.jpg",
     name:"Momo",
     type:"veg",
     category: "evening",
@@ -200,7 +200,7 @@ const Menu = [
 },
 {
     id: 23,
-    image: "../images/samosa.jpg",
+    image: "images/samosa.jpg",
     name:"Samosa",
     type:"veg",
     category: "evening",
@@ -209,7 +209,7 @@ const Menu = [
 },
 {
     id: 24,
-    image: "../images/maggi.jpg",
+    image: "images/maggi.jpg",
     name:"Maggi",
     type:"veg",
     category: "evening",
@@ -218,7 +218,7 @@ const Menu = [
 },
 {
     id: 25,
-    image: "../images/mutton.jpg",
+    image: "images/mutton.jpg",
     name:"Mutton Roll",
     type:"non_veg",
     category: "evening",
@@ -227,7 +227,7 @@ const Menu = [
 },
 {
     id: 26,
-    image: "../images/pizza.jpg",
+    image: "images/pizza.jpg",
     name:"Chicken Pizza",
     type:"non_veg",
     category: "evening",
