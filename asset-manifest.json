@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Filter_Image_Gallery-ReactApp/static/css/main.c8044c20.css",
+    "main.js": "/Filter_Image_Gallery-ReactApp/static/js/main.e048eae8.js",
+    "index.html": "/Filter_Image_Gallery-ReactApp/index.html",
+    "main.c8044c20.css.map": "/Filter_Image_Gallery-ReactApp/static/css/main.c8044c20.css.map",
+    "main.e048eae8.js.map": "/Filter_Image_Gallery-ReactApp/static/js/main.e048eae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8044c20.css",
+    "static/js/main.e048eae8.js"
+  ]
+}
