@@ -71,23 +71,8 @@ img {
   border: none;
 }
 
-.btn-warning,.btn-danger,.btn-success,.btn-primary
-{
-  font-size: 20px;
-}
-
-.btn-danger,.btn-success
-{
-  color:white;
-}
-
 .btn-warning:hover {
   background-color: black;
   color: whitesmoke;
   outline: none;
-  border: none;
-}
-.isactive
-{
-  filter: drop-shadow(5px 10px 10px #708090);
 }
