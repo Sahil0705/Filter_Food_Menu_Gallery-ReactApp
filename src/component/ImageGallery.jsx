@@ -7,7 +7,7 @@ import Tabs from './Tabs';
 const GalleryReact = () => {
 
     const [items, setItems] = useState(Menu);
-    const [state, setState] = useState("All Dishes");
+    const [state, setState] = useState("Whole Menu");
     const [filterfood, setfilterfood] = useState({
         type:"",
         category:""
@@ -28,7 +28,7 @@ const GalleryReact = () => {
                 }
             )
             setItems(updatedItems)
-            setState(`${filterfood.type} dishes for ${filterfood.category}`);
+            setState(`${filterfood.type} Menu for ${filterfood.category}`);
         }
         else if(filterfood.type!="" && filterfood.category=="")
         {
@@ -41,7 +41,7 @@ const GalleryReact = () => {
                 }
             )
             setItems(updatedItems);
-            setState(`${filterfood.type} dishes`);
+            setState(`${filterfood.type} Menu`);
         }
         else if(filterfood.type=="" && filterfood.category!="")
         {
@@ -54,12 +54,12 @@ const GalleryReact = () => {
                 }
             )
             setItems(updatedItems);
-            setState(`Veg & Non-Veg dishes for ${filterfood.category}`);
+            setState(`Veg & Non-Veg Menu for ${filterfood.category}`);
         }
         else
         {
             setItems(Menu);
-            setState("All Dishes");
+            setState("Whole Menu");
         }
     }
 
@@ -156,7 +156,7 @@ const GalleryReact = () => {
 
     return (
         <>
-            <h1 className="mt-5 text-center main-heading">Order the Dishes (You can filter based on your needs)</h1>
+            <h1 className="mt-5 text-center main-heading">Order the Food Items (You can filter based on your needs)</h1>
             <hr />
             <Tabs setItems={setItems} selectedBtn={selectedBtn}/>
             <h1 className="mt-5 text-center main-heading">{state}</h1>
