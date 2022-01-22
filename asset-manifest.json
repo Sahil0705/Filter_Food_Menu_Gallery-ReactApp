@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Filter_Image_Gallery-ReactApp/static/css/main.c8044c20.css",
-    "main.js": "/Filter_Image_Gallery-ReactApp/static/js/main.5981e9e4.js",
-    "index.html": "/Filter_Image_Gallery-ReactApp/index.html",
-    "main.c8044c20.css.map": "/Filter_Image_Gallery-ReactApp/static/css/main.c8044c20.css.map",
-    "main.5981e9e4.js.map": "/Filter_Image_Gallery-ReactApp/static/js/main.5981e9e4.js.map"
+    "main.css": "/Filter_Food_Menu_Gallery-ReactApp/static/css/main.c8044c20.css",
+    "main.js": "/Filter_Food_Menu_Gallery-ReactApp/static/js/main.5981e9e4.js",
+    "index.html": "/Filter_Food_Menu_Gallery-ReactApp/index.html",
+    "main.c8044c20.css.map": "/Filter_Food_Menu_Gallery-ReactApp/static/css/main.c8044c20.css.map",
+    "main.5981e9e4.js.map": "/Filter_Food_Menu_Gallery-ReactApp/static/js/main.5981e9e4.js.map"
   },
   "entrypoints": [
     "static/css/main.c8044c20.css",
